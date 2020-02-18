@@ -12,3 +12,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- content/posts/test.md
