@@ -7,8 +7,6 @@ sections:
 - type: document
   path: AAA
   label: AAA
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content
   label: Pages
