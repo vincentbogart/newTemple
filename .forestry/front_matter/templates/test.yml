@@ -1,4 +1,14 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: num
+  type: number
+  label: num
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
