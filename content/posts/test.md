@@ -1,7 +1,7 @@
 +++
 draft = true
-l = ""
-num = nil
+l = "AAAAA"
+num = 5
 
 +++
 AAA
