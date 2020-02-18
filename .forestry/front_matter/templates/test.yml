@@ -12,5 +12,14 @@ fields:
     min: 
     max: 
     step: 
+- name: l
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: tes
 pages:
 - content/posts/test.md
