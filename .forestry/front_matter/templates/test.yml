@@ -21,5 +21,3 @@ fields:
     schema:
       format: markdown
   label: tes
-pages:
-- content/posts/test.md
